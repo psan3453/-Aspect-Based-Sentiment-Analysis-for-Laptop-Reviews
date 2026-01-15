@@ -107,18 +107,3 @@ python pipeline/run_pipeline.py
 - Model optimization for deployment  
 - Multimodal sentiment analysis  
 
----
-
-## 👨‍💻 Authors
-- Pratik Siramwar  
-- Shaswat Singh  
-- Aditya Masane  
-- Bhavy Dhorajiya  
-
-**Institute:** Indian Institute of Information Technology, Nagpur  
-**Supervisor:** Dr. Varsha Kushwah  
-
----
-
-## 📜 License
-This project is intended for academic and research purposes.
